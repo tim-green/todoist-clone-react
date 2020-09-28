@@ -10,6 +10,7 @@
     "react-dom": "^16.8.6",
     "react-icons": "^3.7.0",
     "react-scripts": "^3.3.0"
+    "firebase": "^7.21.1",
   },
   "devDependencies": {
     "@testing-library/react": "^9.1.3"
